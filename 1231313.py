@@ -3,3 +3,4 @@
 import os
 
 s = 'AKID2pPnwUHWzC8nBHacwbzm4ZLnhMYUHXWF'
+test='sdb/db-config-client'
